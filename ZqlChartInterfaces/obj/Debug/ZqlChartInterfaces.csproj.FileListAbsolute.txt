@@ -1,0 +1,7 @@
+E:\ppsvodcache\Zql_src\ZqlChartInterfaces\obj\Debug\ResolveAssemblyReference.cache
+E:\ppsvodcache\Zql_src\ZqlChartInterfaces\bin\Debug\ZqlChartInterfaces.dll
+E:\ppsvodcache\Zql_src\ZqlChartInterfaces\bin\Debug\ZqlChartInterfaces.pdb
+E:\ppsvodcache\Zql_src\ZqlChartInterfaces\bin\Debug\ZqlChartObjects.dll
+E:\ppsvodcache\Zql_src\ZqlChartInterfaces\bin\Debug\ZqlChartObjects.pdb
+E:\ppsvodcache\Zql_src\ZqlChartInterfaces\obj\Debug\ZqlChartInterfaces.dll
+E:\ppsvodcache\Zql_src\ZqlChartInterfaces\obj\Debug\ZqlChartInterfaces.pdb

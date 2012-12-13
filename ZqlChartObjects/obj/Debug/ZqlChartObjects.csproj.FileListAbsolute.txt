@@ -1,0 +1,5 @@
+E:\ppsvodcache\Zql_src\ZqlChartObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\ppsvodcache\Zql_src\ZqlChartObjects\bin\Debug\ZqlChartObjects.dll
+E:\ppsvodcache\Zql_src\ZqlChartObjects\bin\Debug\ZqlChartObjects.pdb
+E:\ppsvodcache\Zql_src\ZqlChartObjects\obj\Debug\ZqlChartObjects.dll
+E:\ppsvodcache\Zql_src\ZqlChartObjects\obj\Debug\ZqlChartObjects.pdb

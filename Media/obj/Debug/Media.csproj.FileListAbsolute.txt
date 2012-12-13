@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\source-simple-voice-chat-application\Media\bin\Debug\Media.dll
+C:\Users\Administrator\Desktop\source-simple-voice-chat-application\Media\bin\Debug\Media.pdb
+C:\Users\Administrator\Desktop\source-simple-voice-chat-application\Media\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\source-simple-voice-chat-application\Media\obj\Debug\Media.dll
+C:\Users\Administrator\Desktop\source-simple-voice-chat-application\Media\obj\Debug\Media.pdb
+C:\Users\Administrator\Desktop\Debug\source\Media\bin\Debug\Media.dll
+C:\Users\Administrator\Desktop\Debug\source\Media\bin\Debug\Media.pdb
+C:\Users\Administrator\Desktop\Debug\source\Media\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Debug\source\Media\obj\Debug\Media.dll
+C:\Users\Administrator\Desktop\Debug\source\Media\obj\Debug\Media.pdb
+E:\ppsvodcache\Zql_src\Media\bin\Debug\Media.dll
+E:\ppsvodcache\Zql_src\Media\bin\Debug\Media.pdb
+E:\ppsvodcache\Zql_src\Media\obj\Debug\ResolveAssemblyReference.cache
+E:\ppsvodcache\Zql_src\Media\obj\Debug\Media.dll
+E:\ppsvodcache\Zql_src\Media\obj\Debug\Media.pdb
